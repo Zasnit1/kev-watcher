@@ -1,0 +1,20 @@
+# KEV Watcher watchlist: one vendor or product keyword per line.
+# Matching is case-insensitive and whole-word.
+
+# Edge and VPN
+fortinet
+ivanti
+palo alto networks
+citrix
+
+# Servers and apps
+apache
+microsoft
+exchange server
+sharepoint
+atlassian
+
+# Self-hosted
+plex
+gitlab
+wordpress
